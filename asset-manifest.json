@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/rickandmorty/static/js/main.63624a48.js",
+    "static/js/787.1b472a9d.chunk.js": "/rickandmorty/static/js/787.1b472a9d.chunk.js",
+    "index.html": "/rickandmorty/index.html",
+    "main.63624a48.js.map": "/rickandmorty/static/js/main.63624a48.js.map",
+    "787.1b472a9d.chunk.js.map": "/rickandmorty/static/js/787.1b472a9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.63624a48.js"
+  ]
+}
