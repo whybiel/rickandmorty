@@ -40,7 +40,6 @@ const Container = styled.div`
 const SubContainer = styled.div`
     width:45%;
     height:100%;
-    
 `
 
 const BoxTexts = styled.div`
